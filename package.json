@@ -1,0 +1,18 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "this is my homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+	,"homework":"Hello World"
+  },
+  "author": "D0551534 RicHard",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
+  "dependencies": {
+    "axios": "^0.17.1"
+  }
+}
